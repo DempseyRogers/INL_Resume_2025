@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.19)  7 MAY 2025 08:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.19)  7 MAY 2025 10:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -631,16 +631,16 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 165.
+(hyperref)                removing `\@ifnextchar' on input line 160.
 
 
-Overfull \hbox (12.57344pt too wide) in paragraph at lines 171--180
+Overfull \hbox (12.57344pt too wide) in paragraph at lines 166--175
  [][] 
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 202.
+(hyperref)                removing `\@ifnextchar' on input line 197.
 
 [2] (./Rogers_Resume_2025_02.aux)
  ***********
@@ -659,7 +659,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  89i,13n,96p,562b,580s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on Rogers_Resume_2025_02.pdf (2 pages, 49242 bytes).
+Output written on Rogers_Resume_2025_02.pdf (2 pages, 49232 bytes).
 PDF statistics:
  56 PDF objects out of 1000 (max. 8388607)
  45 compressed objects within 1 object stream

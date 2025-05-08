@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1746627219.65154 "/Users/rogedd/Library/CloudStorage/OneDrive-IdahoNationalLaboratory/Desktop/Data Science/Mine/Jobs/INL_Resume_2025/Rogers_Resume_2025_02.tex" "Rogers_Resume_2025_02.pdf" "Rogers_Resume_2025_02" 1746627220.41419 0
-  "/Users/rogedd/Library/CloudStorage/OneDrive-IdahoNationalLaboratory/Desktop/Data Science/Mine/Jobs/INL_Resume_2025/Rogers_Resume_2025_02.tex" 1746627219.42078 11737 817d53696e35e01b5b26530038f3f191 ""
+["pdflatex"] 1746635138.67377 "/Users/rogedd/Library/CloudStorage/OneDrive-IdahoNationalLaboratory/Desktop/Data Science/Mine/Jobs/INL_Resume_2025/Rogers_Resume_2025_02.tex" "Rogers_Resume_2025_02.pdf" "Rogers_Resume_2025_02" 1746635139.44168 0
+  "/Users/rogedd/Library/CloudStorage/OneDrive-IdahoNationalLaboratory/Desktop/Data Science/Mine/Jobs/INL_Resume_2025/Rogers_Resume_2025_02.tex" 1746635138.43786 11714 a5e6e8cf1ca2bec77630e4db3ba0138e ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/bitstrea/charter/bchb7t.tfm" 1136768653 2732 006d846b4d54f9b40899c7c3eecd771a ""
@@ -174,9 +174,9 @@
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1732030824 8221434 9fd462b8ff7353a8040ef6fee42b3643 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
   "Frontmatter.tex" 1746553800.42812 3615 2a6f3b2c9758746eacda0cd3d4a5b6f6 ""
-  "Rogers_Resume_2025_02.aux" 1746627220.35605 739 30427dba5279d5d5430959e90162fb55 "pdflatex"
-  "Rogers_Resume_2025_02.out" 1746627220.35667 519 72b3cc565e77ce6d33ea5f5910813e9a "pdflatex"
-  "Rogers_Resume_2025_02.tex" 1746627219.42078 11737 817d53696e35e01b5b26530038f3f191 ""
+  "Rogers_Resume_2025_02.aux" 1746635139.38658 739 30427dba5279d5d5430959e90162fb55 "pdflatex"
+  "Rogers_Resume_2025_02.out" 1746635139.38729 519 72b3cc565e77ce6d33ea5f5910813e9a "pdflatex"
+  "Rogers_Resume_2025_02.tex" 1746635138.43786 11714 a5e6e8cf1ca2bec77630e4db3ba0138e ""
   (generated)
   "Rogers_Resume_2025_02.aux"
   "Rogers_Resume_2025_02.log"
