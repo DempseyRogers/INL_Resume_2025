@@ -4,6 +4,7 @@
 *log
 *.out
 *.bbl
+*blg*
 *synctex.gx*
 
 
